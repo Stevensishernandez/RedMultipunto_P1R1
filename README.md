@@ -4,7 +4,7 @@
 
 ### VLMS Subnetting 📄
 
-| VLAN | 	Netmask | Network address | F. A. address | L. A. address | D. de broadcast | B. address | H. needed | H. number |
+| VLAN | 	Netmask | Network address | F. A. address | L. A. address | D. broadcast | B. address | H. needed | H. number |
 | ------------- |------------- | ------------- | -------------| ------------- | ------------- | -------------| ------------- | ------------- |
 | 10 RH | 255.255.255.128/25 | 192.168.116.0 | 192.168.1.1 |  192.168.1.126 | 192.168.1.127 | 192.168.116.15 | 123 | 128|
 | 20 CONTA | 255.255.255.192/26 | 192.168.116.128 | 192.168.116.129 | 192.168.116.190 | 192.168.116.191 | 192.168.116.15 | 37 | 64|
