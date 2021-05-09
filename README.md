@@ -25,3 +25,5 @@
 | Truncal | betwen ESW5 & R1 | 1 Link | f1/0 to Eth0/0 |
 | Truncal | betwen R1 & SW5 | 1 Link | Eth0/1 to Eth1 |
 
+### Esquema
+![Esquema](https://github.com/jmansilla-2014056/galery/blob/master/Nueva%20carpeta/unknown.png)
